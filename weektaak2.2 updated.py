@@ -40,4 +40,3 @@ print(
 aantal_thymine,
 "\n" "totale lengte: ", totaleLengteSequentie, "\n" "Percentage GC nucleotiden in de string = ", round(GCpercentage, 2),
 "%")
-# print(totaal)
